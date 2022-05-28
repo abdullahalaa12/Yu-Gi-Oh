@@ -1,0 +1,86 @@
+﻿  Card.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Card.cpp(108,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  List.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\List.cpp(98,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\List.cpp(439,43): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\List.cpp(439,40): warning C4309: 'argument': truncation of constant value
+  Main.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(125,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(147,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(147,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(147,31): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(149,79): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(149,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(149,35): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(153,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(165,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(165,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(165,34): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(167,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(167,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(167,31): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(171,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(185,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(189,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(189,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(189,35): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(199,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(210,51): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(210,47): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(210,41): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(210,35): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(214,51): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(214,47): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(214,41): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(214,35): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(218,51): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(218,47): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(218,41): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(218,35): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(222,51): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(222,47): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(222,41): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(222,35): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Main.cpp(279,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Menue.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Menue.cpp(92,43): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Menue.cpp(92,40): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Menue.cpp(174,39): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Menue.cpp(174,36): warning C4309: 'argument': truncation of constant value
+  monsters-2.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\monsters-2.cpp(118,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\monsters-2.cpp(320,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\monsters-2.cpp(447,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(21,49): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(21,46): warning C4309: 'argument': truncation of constant value
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(53,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(55,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(59,37): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(63,34): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(66,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(82,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(85,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(91,40): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(95,35): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Player.cpp(104,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Rec.cpp
+  Spell.cpp
+C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Yugi\Spell.cpp(455,24): warning C4018: '<': signed/unsigned mismatch
+  Trap.cpp
+  Generating Code...
+  Yugi.vcxproj -> C:\Users\Abdullah Alaa\source\repos\Yu-Gi-Oh\Debug\Yu-Gi-Oh.exe

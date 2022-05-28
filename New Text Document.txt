@@ -1,0 +1,26 @@
+double y = 9.002;
+int x= (int)y;
+int x=static_cast<int>(y);
+struct xxxx
+
+class yyyy
+
+
+xxx=static_cast<xxx>(yyyy)
+
+
+struct x 
+{int y;
+double z
+}obj;
+
+struct big
+{
+
+x mystrut;
+float ff;
+}obj2;
+ obj2=static_cast<big>(x)
+
+
+
